@@ -1,0 +1,7 @@
+# Build settings
+markdown: kramdown
+encoding: utf-8
+highlighter: rouge
+name: Christmas Recipes
+markdown: redcarpet
+baseurl: /christmas-recipes
