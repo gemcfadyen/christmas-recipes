@@ -5,3 +5,6 @@ highlighter: rouge
 name: Christmas Recipes
 markdown: redcarpet
 baseurl: /christmas-recipes
+safe: true
+lsi: false
+github: [Repository metadata]
